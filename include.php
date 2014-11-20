@@ -8,7 +8,7 @@ if (document.createStyleSheet) {
 }
 
 <?php
-echo file_get_contents(__DIR__ . '/js/js-markdown-extra.js');
+echo file_get_contents(__DIR__ . '/js/markdown-extra-editor.js');
 echo file_get_contents(__DIR__ . '/js/markdown-extra-editor.js');
 
 ?>
